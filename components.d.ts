@@ -10,6 +10,7 @@ declare module '@vue/runtime-core' {
     Demo: typeof import('./src/components/Demo.vue')['default']
     Handler: typeof import('./src/components/Handler.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
+    OptionBase: typeof import('./src/components/OptionBase.vue')['default']
     RawDisplay: typeof import('./src/components/rawDisplay.vue')['default']
     Small: typeof import('./src/components/Small.vue')['default']
     TriggerTry: typeof import('./src/components/TriggerTry.vue')['default']

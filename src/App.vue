@@ -6,6 +6,8 @@
 
 <template>
   <div class="flex flex-col m-1 p-1 gap-2 justify-center items-center">
+    <OptionBase></OptionBase>
+    <hr class="bg-gray-500 rounded-md w-full p-1" />
     <Basic></Basic>
   </div>
 
